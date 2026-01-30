@@ -1,5 +1,24 @@
 # 💫 About Me:
-Full-stack Software Engineer with 4+ years of experience building scalable applications using Java (Spring Boot, Hibernate), Python (FastAPI/Django), and React + TypeScript. I’ve delivered cloud-native microservices on AWS/Kubernetes, worked with event-driven systems (Kafka/RabbitMQ), and focus on performance, reliability, and strong automated testing/CI/CD.
+## Hi, I'm Ashish 👋
+
+I'm a Full-Stack Developer who builds cloud-native applications end-to-end — clean APIs, scalable microservices, and responsive UIs.
+
+### What I work with
+- Backend: Java (Spring Boot, Hibernate/JPA), Python (FastAPI/Django REST)
+- Frontend: React, TypeScript, Redux, HTML/CSS, Tailwind
+- Cloud/DevOps: AWS, Docker, Kubernetes, Helm, CI/CD (GitHub Actions/Jenkins)
+- Messaging: Kafka, RabbitMQ/JMS
+- Databases: PostgreSQL, MySQL, Oracle, MongoDB
+- Testing/Quality: JUnit, Mockito, REST Assured, PyTest, Selenium, Cucumber
+
+### What I care about
+- Building reliable systems that are easy to run in production
+- Performance and clean architecture
+- Automation, testing, and solid developer experience
+
+### Let’s connect
+- GitHub: https://github.com/ashishreddy0627
+- Email: ashishreddy1120@gmail.com
 
 
 ## 🌐 Socials:
